@@ -18,5 +18,9 @@
 {
 "task": "Ganesh Chaturthi 2025",
 "date": "27-08-2025"
+},
+{
+"task": "Diwali",
+"date": "20-10-2025"
 }
 ]
