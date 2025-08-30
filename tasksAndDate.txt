@@ -1,26 +1,26 @@
 [
 {
 "task": "Omkar",
-"date": "24-03-2025"
+"date": "24-03-1989"
 },
 {
 "task": "Rajashree",
-"date": "18-11-2025"
+"date": "18-11-1991"
 },
 {
 "task": "Varada",
-"date": "04-08-2025"
+"date": "04-08-2020"
 },
 {
 "task": "hampi badami",
 "date": "13-08-2025"
 },
 {
-"task": "Ganesh Chaturthi 2025",
-"date": "27-08-2025"
+"task": "Ganesh Chaturthi 2026",
+"date": "14-09-2026"
 },
 {
-"task": "Diwali",
+"task": "Diwali 2025",
 "date": "20-10-2025"
 },
 {
